@@ -136,7 +136,7 @@ To run the code:
 perl extract_gene_Fst_anno_willow.pl Snig_Fst_test.txt
 ```
 
-Output file "Fst_output.txt" contains the following:
+Output file "Willow_Fst_gene_anno_output.txt" contains the following:
 ```sh
 Locus	Gene	At_ortholog	Annotation	Fst
 Chr01:8313_12196	Sa940v51000005m	AT2G30942.1 	 transmembrane protein%2C putative (DUF3317) 	8313
