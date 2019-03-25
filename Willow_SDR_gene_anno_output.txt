@@ -1,0 +1,129 @@
+Locus	Gene	At_ortholog	Annotation
+Chr07:4885351_4889304	Sa940v51022368m	AT4G36050.2 	 endonuclease/exonuclease/phosphatase family protein 
+Chr07:4898456_4905398	Sa940v51022369m	AT5G66210.1 	 calcium-dependent protein kinase 28 
+Chr07:4933756_4962623	Sa940v51022373m	AT2G17930.1 	 Phosphatidylinositol 3- and 4-kinase family protein with FAT domain-containing protein 
+Chr07:4970230_4970625	Sa940v51022374m	
+Chr07:4978885_4985505	Sa940v51022375m	AT4G10890.2 	 DDE family endonuclease 
+Chr07:4999765_5001204	Sa940v51022376m	AT5G65590.1 	 Dof-type zinc finger DNA-binding family protein 
+Chr07:5009795_5014504	Sa940v51022377m	AT4G38040.1 	 Exostosin family protein 
+Chr07:5045798_5049239	Sa940v51022379m	AT4G15560.1 	 Deoxyxylulose-5-phosphate synthase 
+Chr07:5052810_5053532	Sa940v51022380m	AT1G21280.1 	 Copia-like polyprotein/retrotransposon 
+Chr07:5055352_5055744	Sa940v51022381m	
+Chr07:5059964_5060937	Sa940v51022382m	AT4G35490.1 	 mitochondrial ribosomal protein L11 
+Chr07:5061617_5064872	Sa940v51022383m	AT3G51470.1 	 Protein phosphatase 2C family protein 
+Chr07:5066922_5071806	Sa940v51022390m	AT3G51480.1 	 glutamate receptor 3.6 
+Chr07:5085845_5091194	Sa940v51022394m	AT2G17520.1 	 Endoribonuclease/protein kinase IRE1-like protein 
+Chr07:5115467_5125044	Sa940v51022395m	AT2G17510.2 	 ribonuclease II family protein 
+Chr07:5125968_5127655	Sa940v51022396m	AT3G12500.1 	 basic chitinase 
+Chr07:5142265_5143241	Sa940v51022397m	AT4G35730.1 	 Regulator of Vps4 activity in the MVB pathway protein 
+Chr07:5143245_5147289	Sa940v51022398m	AT2G17510.2 	 ribonuclease II family protein 
+Chr07:5153628_5154963	Sa940v51022399m	AT4G35730.1 	 Regulator of Vps4 activity in the MVB pathway protein 
+Chr07:5160283_5161009	Sa940v51022401m	AT3G12500.1 	 basic chitinase 
+Chr07:5178746_5182503	Sa940v51022402m	AT4G35730.1 	 Regulator of Vps4 activity in the MVB pathway protein 
+Chr07:5186720_5187022	Sa940v51022405m	AT3G12500.1 	 basic chitinase 
+Chr07:5205159_5206991	Sa940v51022407m	AT4G35730.1 	 Regulator of Vps4 activity in the MVB pathway protein 
+Chr07:5206887_5208228	Sa940v51022408m	AT4G35730.1 	 Regulator of Vps4 activity in the MVB pathway protein 
+Chr07:5208259_5209976	Sa940v51022409m	AT2G17510.2 	 ribonuclease II family protein 
+Chr07:5214784_5218159	Sa940v51022410m	AT2G17510.2 	 ribonuclease II family protein 
+Chr07:5221303_5222627	Sa940v51022412m	AT3G12500.1 	 basic chitinase 
+Chr07:5234508_5235595	Sa940v51022413m	AT4G35730.1 	 Regulator of Vps4 activity in the MVB pathway protein 
+Chr07:5247670_5250596	Sa940v51022414m	AT2G17510.2 	 ribonuclease II family protein 
+Chr07:5250600_5251570	Sa940v51022415m	AT4G35730.1 	 Regulator of Vps4 activity in the MVB pathway protein 
+Chr07:5270421_5270819	Sa940v51022416m	AT3G12500.1 	 basic chitinase 
+Chr07:5272974_5283221	Sa940v51022418m	AT2G17510.2 	 ribonuclease II family protein 
+Chr07:5283222_5284923	Sa940v51022420m	AT2G17510.2 	 ribonuclease II family protein 
+Chr07:5285331_5285779	Sa940v51022421m	
+Chr07:5286255_5287358	Sa940v51022422m	AT4G35730.1 	 Regulator of Vps4 activity in the MVB pathway protein 
+Chr07:5298422_5299355	Sa940v51022423m	AT3G12500.1 	 basic chitinase 
+Chr07:5305488_5309423	Sa940v51022425m	AT2G17510.2 	 ribonuclease II family protein 
+Chr07:5309481_5311710	Sa940v51022426m	AT4G35730.1 	 Regulator of Vps4 activity in the MVB pathway protein 
+Chr07:5325123_5329488	Sa940v51022427m	AT2G17510.2 	 ribonuclease II family protein 
+Chr07:5329672_5331722	Sa940v51022428m	AT4G35730.1 	 Regulator of Vps4 activity in the MVB pathway protein 
+Chr07:5350420_5351146	Sa940v51022429m	AT3G12500.1 	 basic chitinase 
+Chr07:5372046_5374213	Sa940v51022431m	AT4G35730.1 	 Regulator of Vps4 activity in the MVB pathway protein 
+Chr07:5389109_5389838	Sa940v51022432m	AT4G35730.1 	 Regulator of Vps4 activity in the MVB pathway protein 
+Chr07:5402504_5405470	Sa940v51022433m	AT3G24880.1 	 Helicase/SANT-associated%2C DNA binding protein 
+Chr07:5405595_5406194	Sa940v51022434m	AT1G56120.1 	 Leucine-rich repeat transmembrane protein kinase 
+Chr07:5415646_5416767	Sa940v51022435m	AT1G40390.1 	 DNAse I-like superfamily protein 
+Chr07:5420566_5420999	Sa940v51022437m	
+Chr07:5423282_5426591	Sa940v51022438m	AT1G01960.1 	 SEC7-like guanine nucleotide exchange family protein 
+Chr07:5426785_5428570	Sa940v51022439m	AT1G01960.1 	 SEC7-like guanine nucleotide exchange family protein 
+Chr07:5429176_5430212	Sa940v51022441m	AT3G24880.1 	 Helicase/SANT-associated%2C DNA binding protein 
+Chr07:5430347_5432046	Sa940v51022442m	AT3G24880.1 	 Helicase/SANT-associated%2C DNA binding protein 
+Chr07:5432547_5433127	Sa940v51022443m	AT3G24870.1 	 Helicase/SANT-associated%2C DNA binding protein 
+Chr07:5436533_5436949	Sa940v51022444m	AT3G12830.1 	 SAUR-like auxin-responsive protein family 
+Chr07:5446779_5454658	Sa940v51022445m	AT1G79190.2 	 ARM repeat superfamily protein 
+Chr07:5471396_5474024	Sa940v51022446m	AT1G79180.2 	 myb domain protein 63 
+Chr07:5502080_5504502	Sa940v51022447m	AT4G33870.1 	 Peroxidase superfamily protein 
+Chr07:5514656_5516791	Sa940v51022449m	AT1G31320.1 	 LOB domain-containing protein 4 
+Chr07:5565759_5576487	Sa940v51022451m	AT1G16540.3 	 molybdenum cofactor sulfurase (LOS5) (ABA3) 
+Chr07:5580931_5585535	Sa940v51022456m	AT1G21280.1 	 Copia-like polyprotein/retrotransposon 
+Chr07:5604804_5607181	Sa940v51022458m	AT5G56970.1 	 cytokinin oxidase 3 
+Chr07:5640078_5643165	Sa940v51022459m	AT1G56010.2 	 NAC domain containing protein 1 
+Chr07:5664466_5668373	Sa940v51022461m	AT1G16650.3 	 S-adenosyl-L-methionine-dependent methyltransferases superfamily protein 
+Chr07:5680071_5681277	Sa940v51022471m	AT2G17620.1 	 Cyclin B2%3B1 
+Chr07:5689274_5691173	Sa940v51022472m	AT1G79060.1 	 TPRXL 
+Chr07:5976135_5978926	Sa940v51022480m	AT5G57320.2 	 actin filament bundling protein P-115-ABP protein 
+Chr07:5981387_5983635	Sa940v51022481m	AT5G57330.1 	 Galactose mutarotase-like superfamily protein 
+Chr07:5999758_6002252	Sa940v51022482m	AT4G35260.1 	 isocitrate dehydrogenase 1 
+Chr07:6010090_6012221	Sa940v51022483m	AT3G42170.1 	 BED zinc finger and hAT dimerization domain-containing protein DAYSLEEPER 
+Chr07:6013463_6015326	Sa940v51022484m	
+Chr07:6042621_6043150	Sa940v51022485m	AT4G12080.1 	 AT-hook motif nuclear-localized protein 1 
+Chr07:6043987_6044607	Sa940v51022487m	AT1G21280.1 	 Copia-like polyprotein/retrotransposon 
+Chr07:6064531_6068556	Sa940v51022488m	AT1G56070.2 	 Ribosomal protein S5/Elongation factor G/III/V family protein 
+Chr07:6076247_6079984	Sa940v51022490m	AT1G56070.2 	 Ribosomal protein S5/Elongation factor G/III/V family protein 
+Chr07:6100982_6103135	Sa940v51022493m	AT4G35510.1 	 PHD finger-like protein 
+Chr07:6119949_6123578	Sa940v51022496m	AT2G17220.1 	 Protein kinase superfamily protein 
+Chr07:6219776_6221696	Sa940v51022500m	AT4G37650.1 	 GRAS family transcription factor 
+Chr07:6258684_6261861	Sa940v51022502m	AT4G35880.1 	 Eukaryotic aspartyl protease family protein 
+Chr07:6264754_6266600	Sa940v51022503m	
+Chr07:6268699_6271836	Sa940v51022504m	AT2G17480.1 	 Seven transmembrane MLO family protein 
+Chr07:6312480_6314610	Sa940v51022505m	AT3G60860.1 	 SEC7-like guanine nucleotide exchange family protein 
+Chr07:6315232_6315714	Sa940v51022506m	AT5G16890.1 	 Exostosin family protein 
+Chr07:6330070_6331270	Sa940v51022507m	AT1G56145.2 	 Leucine-rich repeat transmembrane protein kinase 
+Chr07:6336792_6337091	Sa940v51022508m	
+Chr07:6340031_6340582	Sa940v51022509m	AT3G12830.1 	 SAUR-like auxin-responsive protein family 
+Chr07:6343150_6344991	Sa940v51022510m	AT1G56120.1 	 Leucine-rich repeat transmembrane protein kinase 
+Chr07:6346708_6348128	Sa940v51022511m	AT5G16890.1 	 Exostosin family protein 
+Chr07:6355282_6355627	Sa940v51022512m	AT1G56120.1 	 Leucine-rich repeat transmembrane protein kinase 
+Chr07:6356125_6358489	Sa940v51022513m	AT3G09500.1 	 Ribosomal L29 family protein 
+Chr07:6364770_6367509	Sa940v51022514m	AT5G66980.1 	 AP2/B3-like transcriptional factor family protein 
+Chr07:6370941_6375512	Sa940v51022516m	AT1G13220.3 	 nuclear matrix constituent protein-like protein 
+Chr07:6378258_6379106	Sa940v51022518m	AT4G00872.1 	 Plant invertase/pectin methylesterase inhibitor superfamily protein 
+Chr07:6379607_6381288	Sa940v51022519m	AT3G22470.1 	 Pentatricopeptide repeat (PPR) superfamily protein 
+Chr07:6382892_6387222	Sa940v51022520m	AT1G16480.1 	 Tetratricopeptide repeat (TPR)-like superfamily protein 
+Chr07:6395534_6401039	Sa940v51022521m	AT5G60990.1 	 DEA(D/H)-box RNA helicase family protein 
+Chr07:6401726_6403865	Sa940v51022522m	AT3G20730.1 	 PPR superfamily protein 
+Chr07:6417134_6418967	Sa940v51022524m	AT1G79220.1 	 Mitochondrial transcription termination factor family protein 
+Chr07:6432660_6440139	Sa940v51022526m	AT4G35260.1 	 isocitrate dehydrogenase 1 
+Chr07:6480471_6481206	Sa940v51022527m	AT1G50140.1 	 P-loop containing nucleoside triphosphate hydrolases superfamily protein 
+Chr07:6490720_6492620	Sa940v51022528m	AT3G19740.1 	 P-loop containing nucleoside triphosphate hydrolases superfamily protein 
+Chr07:6509690_6511242	Sa940v51022531m	AT3G19740.1 	 P-loop containing nucleoside triphosphate hydrolases superfamily protein 
+Chr07:6511394_6512620	Sa940v51022532m	AT1G50140.1 	 P-loop containing nucleoside triphosphate hydrolases superfamily protein 
+Chr07:6520884_6528305	Sa940v51022533m	AT3G19740.1 	 P-loop containing nucleoside triphosphate hydrolases superfamily protein 
+Chr07:6539657_6547345	Sa940v51022534m	AT3G19740.1 	 P-loop containing nucleoside triphosphate hydrolases superfamily protein 
+Chr07:6552687_6555612	Sa940v51022535m	
+Chr07:6567197_6567463	Sa940v51022537m	
+Chr07:6568192_6569787	Sa940v51022538m	AT4G31860.1 	 Protein phosphatase 2C family protein 
+Chr07:6577582_6577864	Sa940v51022539m	
+Chr07:6596979_6597261	Sa940v51022541m	
+Chr07:6616461_6616743	Sa940v51022543m	
+Chr07:6629736_6630018	Sa940v51022546m	
+Chr07:6635242_6635524	Sa940v51022547m	
+Chr07:6647048_6652934	Sa940v51022548m	AT4G31860.1 	 Protein phosphatase 2C family protein 
+Chr07:6654214_6654496	Sa940v51022549m	
+Chr07:6660973_6663094	Sa940v51022550m	AT5G26667.1 	 P-loop containing nucleoside triphosphate hydrolases superfamily protein 
+Chr07:6668359_6669961	Sa940v51022551m	AT4G31860.1 	 Protein phosphatase 2C family protein 
+Chr07:6670246_6672544	Sa940v51022552m	AT4G31860.1 	 Protein phosphatase 2C family protein 
+Chr07:6679709_6682512	Sa940v51022553m	AT4G31860.1 	 Protein phosphatase 2C family protein 
+Chr07:6682598_6682880	Sa940v51022554m	
+Chr07:6689717_6692360	Sa940v51022556m	AT5G26667.1 	 P-loop containing nucleoside triphosphate hydrolases superfamily protein 
+Chr07:6694470_6709457	Sa940v51022557m	AT2G32810.1 	 beta galactosidase 9 
+Chr07:6716255_6716565	Sa940v51022558m	AT1G50140.1 	 P-loop containing nucleoside triphosphate hydrolases superfamily protein 
+Chr07:6721295_6724296	Sa940v51022559m	
+Chr07:6728393_6744072	Sa940v51022564m	AT3G19740.1 	 P-loop containing nucleoside triphosphate hydrolases superfamily protein 
+Chr07:6775329_6778009	Sa940v51022567m	AT3G19760.1 	 eukaryotic initiation factor 4A-III 
+Chr07:6785606_6799180	Sa940v51022569m	AT3G13530.1 	 mitogen-activated protein kinase kinase kinase 7 
+Chr07:6806569_6809535	Sa940v51022570m	AT3G19780.1 	 hypothetical protein 
+Chr07:6809536_6812612	Sa940v51022571m	AT3G19780.1 	 hypothetical protein 
+Chr07:6856242_6860211	Sa940v51022575m	AT3G18620.1 	 DHHC-type zinc finger family protein 

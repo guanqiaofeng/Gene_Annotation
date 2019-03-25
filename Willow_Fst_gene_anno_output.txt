@@ -1,0 +1,7 @@
+Locus	Gene	At_ortholog	Annotation	Fst
+Chr01:8313_12196	Sa940v51000005m	AT2G30942.1 	 transmembrane protein%2C putative (DUF3317) 	8313
+Chr07:4885351_4889304	Sa940v51022368m	AT4G36050.2 	 endonuclease/exonuclease/phosphatase family protein 	4885391
+Chr07:4898456_4905398	Sa940v51022369m	AT5G66210.1 	 calcium-dependent protein kinase 28 	4898856
+Chr07:4933756_4962623	Sa940v51022373m	AT2G17930.1 	 Phosphatidylinositol 3- and 4-kinase family protein with FAT domain-containing protein 	4953756
+Chr07:4970230_4970625	Sa940v51022374m	NA	NA	4970230
+Chr07:4978885_4985505	Sa940v51022375m	AT4G10890.2 	 DDE family endonuclease 	4985505

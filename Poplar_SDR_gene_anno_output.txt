@@ -1,0 +1,2 @@
+Locus	Gene	At_ortholog	Annotation
+Chr18:16275565_16279867	Po14v11b059587m	AT5G26360.1 	 TCP-1/cpn60 chaperonin family protein 
