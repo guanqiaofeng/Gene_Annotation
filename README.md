@@ -1,4 +1,4 @@
-# Willow/poplar SDR gene identification and annotation based on *Arabidopsis* orthologs
+## Willow/poplar SDR gene identification and annotation based on *Arabidopsis* orthologs
 
 This pipeline contains 4 steps. Step 1 and 2 only need to be done once for each genome; and you may get these results from other rescources. I will provide you all files needed for step 3 (identify SDR genes) and 4 (identify genes with high Fst). So you can jumpt directly to step 3. 
 
